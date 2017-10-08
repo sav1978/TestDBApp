@@ -1,0 +1,8 @@
+c:\users\user\documents\visual studio 2013\Projects\TestDBApp\TestDBApp\bin\Debug\TestDBApp.exe.config
+c:\users\user\documents\visual studio 2013\Projects\TestDBApp\TestDBApp\bin\Debug\TestDBApp.exe
+c:\users\user\documents\visual studio 2013\Projects\TestDBApp\TestDBApp\bin\Debug\TestDBApp.pdb
+c:\users\user\documents\visual studio 2013\Projects\TestDBApp\TestDBApp\obj\Debug\TestDBApp.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\TestDBApp\TestDBApp\obj\Debug\TestDBApp.Properties.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\TestDBApp\TestDBApp\obj\Debug\TestDBApp.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\TestDBApp\TestDBApp\obj\Debug\TestDBApp.exe
+c:\users\user\documents\visual studio 2013\Projects\TestDBApp\TestDBApp\obj\Debug\TestDBApp.pdb
